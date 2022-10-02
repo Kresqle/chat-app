@@ -1,1 +1,1 @@
-nvm it doesn't host on gh-pages duh
+nvm it doesn't host on gh duh
